@@ -147,27 +147,7 @@ python app.py
 
 ---
 
-## 📸 Screenshots
 
-> *(Add your project screenshots here)*
-
-| Dashboard | GST Module | AI Chat |
-|-----------|------------|---------|
-| ![Dashboard](#) | ![GST](#) | ![AI](#) |
-
----
-
-## 🙌 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
